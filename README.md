@@ -85,6 +85,29 @@ Columns include:
 
 ---
 
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created to analyze trader performance against market sentiment.
+
+### Dashboard Features
+
+- Total Trades
+- Total PnL
+- Average PnL
+- Buy vs Sell Trades
+- Win Rate
+- PnL by Market Sentiment
+- Average PnL by Year
+- PnL by Cryptocurrency
+- Market Sentiment Filters
+- Coin Filters
+- Buy vs Sell Distribution
+
+### Dashboard Preview
+
+![Power BI Dashboard](powerbi/dashboard_preview.png)
+
+
 ## How to Run
 
 ```bash
