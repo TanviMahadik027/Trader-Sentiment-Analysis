@@ -107,7 +107,11 @@ An interactive Power BI dashboard was created to analyze trader performance agai
 
 ![Power BI Dashboard](powerbi/dashboard_preview.png)
 
+## Power BI Dashboard
 
+The interactive Power BI dashboard is available as a `.pbix` file.
+
+[Download Power BI Dashboard](https://drive.google.com/file/d/17UY4dADEsrgdSnoOnQ2bnsEXpxVwPDGT/view?usp=sharing)
 ## How to Run
 
 ```bash
